@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abigitin
 - 👀 I’m interested in WEb apps
 - 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Next js project
+- 💞️ I’m looking to collaborate on expressjs project
 - 📫 How to reach me abir27534@gmail.com
 
 <!---
