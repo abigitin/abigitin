@@ -63,7 +63,7 @@ I’m an enthusiastic **Backend Engineer** with a deep passion for web developme
 
 ## 📚 Projects
 
-### 🚀 [Authentication System](https://github.com/abigitin/auth-system)
+### 🚀 [Authentication System](https://github.com/abigitin/Authentication)
 - **Tech Stack**: Express.js, React.js, MySQL, Bcrypt, JWT
 - **Description**: Developed a secure authentication system with password hashing and session management using JWT, showcasing proficiency in full-stack development and security best practices.
 
@@ -71,9 +71,12 @@ I’m an enthusiastic **Backend Engineer** with a deep passion for web developme
 - **Tech Stack**: React.js, TailwindCSS, MapBox API, Firebase
 - **Description**: A parking reservation app that allows users to find, reserve, and pay for parking spaces in real-time with secure payment integration and automated email notifications.
 
-### 🍲 [FromMyKitchen](https://github.com/abigitin/frommykitchen)
+### 🍲 [FromMyKitchen](https://github.com/abigitin/fromykitchen)
 - **Tech Stack**: HTML, Bootstrap, JavaScript, Firebase
 - **Description**: A platform connecting home chefs with food lovers, enabling users to order homemade food with delivery services.
+
+### 🍲 [Wrod Counter](https://github.com/abigitin/wordcounter)
+- **Tech Stack**: HTML, Bootstrap, Tailwind Css, React
 
 ---
 
