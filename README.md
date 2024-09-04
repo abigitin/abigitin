@@ -75,7 +75,7 @@ I’m an enthusiastic **Backend Engineer** with a deep passion for web developme
 - **Tech Stack**: HTML, Bootstrap, JavaScript, Firebase
 - **Description**: A platform connecting home chefs with food lovers, enabling users to order homemade food with delivery services.
 
-### 🍲 [Wrod Counter](https://github.com/abigitin/wordcounter)
+### 🔄️ [Wrod Counter](https://github.com/abigitin/wordcounter)
 - **Tech Stack**: HTML, Bootstrap, Tailwind Css, React
 
 ---
